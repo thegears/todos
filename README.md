@@ -1,4 +1,4 @@
-# A Starter for Nuxt 3 with Headlessui, Heroicons, WindiCSS
+# Todos
 
 ```
  #install modules
